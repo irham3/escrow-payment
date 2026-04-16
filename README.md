@@ -1,8 +1,6 @@
-Here is the professional `README.md` for your Escrow Smart Contract in English.
-
----
-
 # Soroban Escrow Smart Contract
+<img width="1869" height="1160" alt="image" src="https://github.com/user-attachments/assets/f0da3d7b-66b0-47b8-a23a-3c7d6b646c49" />
+
 
 This smart contract facilitates secure transactions between a **Buyer** and a **Seller** using a third-party **Arbiter** as a mediator in case of disputes.
 
